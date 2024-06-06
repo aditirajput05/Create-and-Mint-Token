@@ -25,7 +25,7 @@ Copy code
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MyToken {
+contract CreateAndMint {
     address public owner; // contract owner
     uint256 public totalSupply;
     string public name = "Philip";
